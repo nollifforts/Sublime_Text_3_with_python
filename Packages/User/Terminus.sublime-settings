@@ -1,0 +1,12 @@
+{
+	"shell_configs": [
+        {
+            "name": "Zsh",
+            "cmd": ["zsh", "-i", "-l"],
+            "env": {},
+            "enable": true,
+            "default": true,
+            "platforms": ["linux", "osx"]
+        }
+    ]
+}

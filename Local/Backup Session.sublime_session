@@ -1,0 +1,488 @@
+{
+	"file_history":
+	[
+		"/C/Users/ch12/Desktop/VS.py",
+		"/C/Users/ch12/Desktop/grfgt.py",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Python3.sublime-build",
+		"/C/Users/ch12/Desktop/a.py",
+		"/C/Users/ch12/Desktop/a — копия.py",
+		"/C/Users/ch12/AppData/Local/Programs/Thonny/Lib/site-packages/thonny/workbench.py",
+		"/C/Users/ch12/Desktop/Python File.py",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-commands",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Default.sublime-commands",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-keymap",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/python3.sublime-build",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build2",
+		"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 12,
+	"log_indexing": false,
+	"next_update_check": 1726046518,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			43.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"terminus key",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"python Python File.py",
+					"sublime.log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/ch12/Desktop/VS.py",
+				"/C/Users/ch12/Desktop/grfgt.py",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Python3.sublime-build",
+				"/C/Users/ch12/Desktop/a.py",
+				"/C/Users/ch12/Desktop/a — копия.py",
+				"/C/Users/ch12/AppData/Local/Programs/Thonny/Lib/site-packages/thonny/workbench.py",
+				"/C/Users/ch12/Desktop/Python File.py",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/python3.sublime-build",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build2",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Подд"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 126.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 181.0
+			},
+			"output.exec":
+			{
+				"height": 284.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Python3.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"terminus key",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+					"python Python File.py",
+					"sublime.log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/ch12/Desktop/VS.py",
+				"/C/Users/ch12/Desktop/grfgt.py",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/Python3.sublime-build",
+				"/C/Users/ch12/Desktop/a.py",
+				"/C/Users/ch12/Desktop/a — копия.py",
+				"/C/Users/ch12/AppData/Local/Programs/Thonny/Lib/site-packages/thonny/workbench.py",
+				"/C/Users/ch12/Desktop/Python File.py",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/python3.sublime-build",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build2",
+				"/C/Users/ch12/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Подд"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 126.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 181.0
+			},
+			"output.exec":
+			{
+				"height": 284.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Python3.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,690,31,31,847,a79f1a6cbf32c7429373fccc33a39d36",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
